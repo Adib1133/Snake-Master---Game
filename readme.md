@@ -4,7 +4,7 @@ A futuristic neon-style Snake game built with pure HTML, CSS, and JavaScript. Sn
 
 ---
 
-# 🎮 Features
+#  Features
 
 ## Core Gameplay
 - Classic Snake gameplay with smooth controls
@@ -38,7 +38,7 @@ A futuristic neon-style Snake game built with pure HTML, CSS, and JavaScript. Sn
 
 ---
 
-# 🍎 Food Types
+#  Food Types
 
 | Food | Effect | Points |
 |---|---|---|
@@ -50,7 +50,7 @@ A futuristic neon-style Snake game built with pure HTML, CSS, and JavaScript. Sn
 
 ---
 
-# ⚡ Power-Ups
+#  Power-Ups
 
 | Power-Up | Effect |
 |---|---|
@@ -62,7 +62,7 @@ A futuristic neon-style Snake game built with pure HTML, CSS, and JavaScript. Sn
 
 ---
 
-# 🧠 Gameplay Systems
+#  Gameplay Systems
 
 ## Combo System
 Eating food rapidly builds a combo multiplier.
@@ -86,7 +86,7 @@ Higher combos award bonus points.
 
 ---
 
-# 🎨 Visual Features
+#  Visual Features
 
 - Neon cyberpunk UI design
 - Animated particle effects
@@ -100,7 +100,7 @@ Higher combos award bonus points.
 
 ---
 
-# 🎨 Snake Skins
+#  Snake Skins
 
 Available skins:
 - Neon Green
@@ -116,7 +116,7 @@ Each skin includes:
 
 ---
 
-# 🔊 Audio
+#  Audio
 
 The game includes:
 - Procedural sound generation using Web Audio API
@@ -128,7 +128,7 @@ The game includes:
 
 ---
 
-# 📱 Mobile Support
+#  Mobile Support
 
 Responsive mobile controls included:
 - Touch directional buttons
@@ -138,7 +138,7 @@ Responsive mobile controls included:
 
 ---
 
-# 🕹️ Controls
+#  Controls
 
 ## Keyboard
 | Key | Action |
@@ -154,7 +154,7 @@ Responsive mobile controls included:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - HTML5 Canvas
 - Vanilla JavaScript
@@ -166,7 +166,7 @@ No external game engine is required.
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## Run Locally
 1. Download the project files
@@ -177,7 +177,7 @@ No installation or build step required.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 snake_master_v2.html
@@ -187,7 +187,7 @@ The project is fully self-contained in a single HTML file.
 
 ---
 
-# 💾 Data Persistence
+#  Data Persistence
 
 The game stores the following locally using browser localStorage:
 - High scores
@@ -198,7 +198,7 @@ No backend or server is required.
 
 ---
 
-# ✨ Notable Technical Features
+#  Notable Technical Features
 
 - Dynamic game speed system
 - Particle engine
@@ -213,7 +213,7 @@ No backend or server is required.
 
 ---
 
-# 🌐 Browser Compatibility
+#  Browser Compatibility
 
 Tested and compatible with:
 - Google Chrome
@@ -225,7 +225,7 @@ Tested and compatible with:
 
 ---
 
-# 📸 Gameplay Highlights
+#  Gameplay Highlights
 
 - Neon cyberpunk aesthetic
 - Smooth animated snake rendering
@@ -237,7 +237,7 @@ Tested and compatible with:
 
 ---
 
-# 🔧 Customization Ideas
+#  Customization Ideas
 
 You can easily extend the game with:
 - Additional power-ups
@@ -251,13 +251,13 @@ You can easily extend the game with:
 
 ---
 
-# 📜 License
+#  License
 
-This project is open for personal and educational use.
+This project is open for personal use.
 
 ---
 
-# 🙌 Credits
+#  Credits
 
 Built using pure web technologies with no external game engine.
 
